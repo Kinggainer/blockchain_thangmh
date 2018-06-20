@@ -1,0 +1,16 @@
+{
+    "network": {
+        "local_node": {
+          "address": "localhost:3332"
+        },
+        "neighbor_nodes": [
+          {"address": "localhost:3331"},
+          {"address": "localhost:3333"}
+        ]
+      },
+      "wallet": {
+        "private_key": "1b9205c8f84402cb32039de762e6ea541068ccbbb19e8b978b21a4e40197a92c",
+        "public_key": "04040d8408016f873529f9a99102a946a4d36de80360e4b57ada4afd6e06cf8a9ea399aacea0d18605bba464d2d888adbdc0b6b9dd94a4f7e50a98b94ed907b2ac",
+        "address": "1NYJwQd8YuR8kFHxs5WPRbuMtFQAyX4DEz"
+      }
+}
